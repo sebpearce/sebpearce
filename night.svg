@@ -1,5 +1,5 @@
 <!-- © 2022 Seb Pearce https://github.com/sebpearce -->
-<svg viewBox="0 -300 1000 500" style="background-color: #111;">
+<svg viewBox="0 -300 1000 500" style="background-color: #111;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <mask id="code-mask">
       <rect fill="#fff" x="310" y="-100" rx="3" height="99" width="213" />
