@@ -19,104 +19,27 @@
 
   <!-- clock -->
   <g opacity="0.7" transform="scale(0.8) translate(260,-50)">
-    <circle
-      fill="#fff"
-      stroke="#0a0a0a"
-      stroke-width="5"
-      cx="800"
-      cy="-180"
-      r="90"
-    />
+    <circle fill="#fff" stroke="#0a0a0a" stroke-width="5" cx="800" cy="-180" r="90" />
     <g stroke="#333" stroke-width="3">
       <path d="M800,-180 v-80" />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(30)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(60)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(90)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(120)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(150)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(180)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(210)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(240)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(270)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(300)"
-      />
-      <path
-        d="M800,-180 v-80"
-        transform-origin="800 -180"
-        transform="rotate(330)"
-      />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(30)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(60)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(90)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(120)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(150)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(180)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(210)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(240)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(270)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(300)" />
+      <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(330)" />
     </g>
     <circle fill="#fff" cx="800" cy="-180" r="66" />
     <circle fill="#333" cx="800" cy="-180" r="5" />
-    <path
-      d="M800,-180 v-56"
-      transform-origin="800 -180"
-      transform="rotate(40)"
-      stroke="#333"
-      stroke-width="4"
-    />
-    <path
-      d="M800,-180 v-80"
-      transform-origin="800 -180"
-      transform="rotate(200)"
-      stroke="#333"
-      stroke-width="4"
-    />
-    <path
-      d="M800,-180 v-80"
-      transform-origin="800 -180"
-      stroke="#ff5c5c"
-      stroke-width="2"
-    >
-      <animateTransform
-        attributeType="xml"
-        attributeName="transform"
-        type="rotate"
-        from="0"
-        to="360"
-        dur="60s"
-        additive="sum"
-        repeatCount="indefinite"
-      />
+    <path d="M800,-180 v-56" transform-origin="800 -180" transform="rotate(40)" stroke="#333" stroke-width="4" />
+    <path d="M800,-180 v-80" transform-origin="800 -180" transform="rotate(200)" stroke="#333" stroke-width="4" />
+    <path d="M800,-180 v-80" transform-origin="800 -180" stroke="#ff5c5c" stroke-width="2">
+      <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0" to="360" dur="60s" additive="sum" repeatCount="indefinite" />
     </path>
     <circle fill="#ff5c5c" cx="800" cy="-180" r="3" />
   </g>
@@ -127,56 +50,17 @@
   <rect fill="#aaa" x="300" y="20" rx="4" height="20" width="233" />
 
   <!-- lamp -->
-  <rect
-    transform-origin="500 -230"
-    fill="#777"
-    x="586"
-    y="-237"
-    rx="2"
-    width="150"
-    height="5"
-    transform="rotate(20)"
-  />
-  <rect
-    transform-origin="500 -230"
-    fill="#777"
-    x="718"
-    y="-155"
-    rx="2"
-    width="5"
-    height="190"
-  />
+  <rect transform-origin="500 -230" fill="#777" x="586" y="-237" rx="2" width="150" height="5" transform="rotate(20)" />
+  <rect transform-origin="500 -230" fill="#777" x="718" y="-155" rx="2" width="5" height="190" />
   <circle fill="#999" cx="720" cy="-155" r="15" />
-  <rect
-    transform-origin="500 -230"
-    fill="#999"
-    x="680"
-    y="26"
-    rx="4"
-    width="80"
-    height="14"
-  />
+  <rect transform-origin="500 -230" fill="#999" x="680" y="26" rx="4" width="80" height="14" />
 
   <!-- books -->
-  <path
-    d="M 960 40 h -154 c -3 0 -3 -32 0 -32 h 154 q -10 16 0 32"
-    fill="#4b6677"
-  />
-  <path
-    d="M 1369 50 h -210 c -3 0 -3 -32 0 -32 h 210 q -10 16 0 32"
-    fill="#ddd"
-    transform="scale(0.7)"
-  />
+  <path d="M 960 40 h -154 c -3 0 -3 -32 0 -32 h 154 q -10 16 0 32" fill="#4b6677" />
+  <path d="M 1369 50 h -210 c -3 0 -3 -32 0 -32 h 210 q -10 16 0 32" fill="#ddd" transform="scale(0.7)" />
   <g transform="translate(210 -24) scale(0.8)">
-    <path
-      d="M 960 40 h -154 c -3 0 -3 -32 0 -32 h 154 q -10 16 0 32"
-      fill="#794949"
-    />
-    <path
-      d="M 1369 50 h -210 c -3 0 -3 -32 0 -32 h 210 q -10 16 0 32"
-      fill="#ddd"
-      transform="scale(0.7)"
-    />
+    <path d="M 960 40 h -154 c -3 0 -3 -32 0 -32 h 154 q -10 16 0 32" fill="#794949" />
+    <path d="M 1369 50 h -210 c -3 0 -3 -32 0 -32 h 210 q -10 16 0 32" fill="#ddd" transform="scale(0.7)" />
   </g>
 
   <!-- printer -->
@@ -197,13 +81,7 @@
       <rect rx="4" x="320" y="80" width="90" height="8" />
       <rect rx="4" x="320" y="100" width="70" height="8" />
       <rect rx="4" x="320" y="120" width="160" height="8" />
-      <animateTransform
-        attributeName="transform"
-        from="0 0"
-        to="0 -240"
-        dur="15s"
-        repeatCount="indefinite"
-      />
+      <animateTransform attributeName="transform" from="0 0" to="0 -240" dur="15s" repeatCount="indefinite" />
     </g>
     <g>
       <rect rx="4" x="320" y="120" width="50" height="8" />
@@ -217,45 +95,17 @@
       <rect rx="4" x="320" y="280" width="30" height="8" />
       <rect rx="4" x="320" y="300" width="90" height="8" />
       <rect rx="4" x="320" y="320" width="70" height="8" />
-      <animateTransform
-        attributeName="transform"
-        from="0 20"
-        to="0 -220"
-        dur="15s"
-        repeatCount="indefinite"
-      />
+      <animateTransform attributeName="transform" from="0 20" to="0 -220" dur="15s" repeatCount="indefinite" />
     </g>
   </g>
 
   <!-- light -->
-  <path
-    opacity="0.6"
-    transform-origin="500 -230"
-    d="M 500 -230 h 60 l 240 420 h -540 l 240 -420"
-    fill="url(#light)"
-    transform="rotate(20) scale(1.4)"
-  />
-  <rect
-    transform-origin="500 -230"
-    fill="#999"
-    x="494"
-    y="-241"
-    rx="5"
-    width="95"
-    height="12"
-    transform="rotate(20)"
-  />
+  <path opacity="0.6" transform-origin="500 -230" d="M 500 -230 h 60 l 240 420 h -540 l 240 -420" fill="url(#light)" transform="rotate(20) scale(1.4)" />
+  <rect transform-origin="500 -230" fill="#999" x="494" y="-241" rx="5" width="95" height="12" transform="rotate(20)" />
 
   <!-- desk -->
   <rect fill="#ccc" x="-20" y="39" rx="4" height="30" width="1040" />
-  <rect
-    x="-20"
-    y="69"
-    rx="4"
-    height="140"
-    width="1040"
-    fill="url(#desk-shadow)"
-  />
+  <rect x="-20" y="69" rx="4" height="140" width="1040" fill="url(#desk-shadow)" />
   <rect fill="#444" x="-20" y="69" rx="4" height="20" width="1040" />
   <rect fill="black" x="50" y="18" rx="1" height="4" width="160" />
 
