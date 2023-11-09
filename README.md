@@ -6,5 +6,5 @@
 - 🔧 Strongest skills are JS, TypeScript, React, Svelte, CSS and SVG. I've worked on Ruby and Node backends.
 - 📖 Currently learning advanced TypeScript and HTML Canvas.
 - 🎹 Working on a side project of video music theory tutorials using Python library [Manim](https://github.com/ManimCommunity/manim/).
-- 📫 Best place to reach me is at sebpearce@gmail.com.
+- 📫 Best place to reach me is at dev@sebpearce.com.
 - 🖋️ Check out [my CodePen](https://codepen.io/sebpearce) for some UI experiments.
